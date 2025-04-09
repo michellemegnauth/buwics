@@ -1,9 +1,44 @@
-body {
+ody {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     text-align: center;
     padding-top: 50px;
 }
+
+header {
+    margin-bottom: 30px;
+}
+
+/* this is for our title! */
 h1 {
     color: #000000;
+    font-size: 36px;
+}
+
+h2 {
+    color:#000000;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+/* we are going to need the "intro" class we made earlier! */
+
+.intro {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #ddd;
+
+}
+
+h3 {
+    color: #333333;
+    font-size: 28px;
+}
+
+p{
+    color: #666666;
+    font-size: 18 px;
+    line-height: 1.6;
+    margin-top: 10px;
 }
